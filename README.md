@@ -1,0 +1,1 @@
+# workshop-rsgislib-geoprocessamento-2024V
